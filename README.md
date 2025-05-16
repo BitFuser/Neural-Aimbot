@@ -47,7 +47,7 @@ pip install -r requirements.txt
 ```
 .
 ├── aiaim.py             # Main aimbot logic
-├── best.pt              # YOLOv5 trained model file
+├── yolov5x.pt           # YOLOv5 trained model file
 ├── config.json          # Sensitivity configuration
 ├── data/                # (Optional) screenshots if collecting data
 ```
