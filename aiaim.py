@@ -56,7 +56,7 @@ class NeuralAimbot:
         self.debug = debug
         self.active = True
         self.screen = mss.mss()
-        self.box_size = 416
+        self.box_size = 500
         self.extra = ctypes.c_ulong(0)
         self.ii_ = Input_I()
         self.pixel_increment = 1
