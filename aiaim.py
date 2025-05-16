@@ -20,7 +20,7 @@ BASE_DIR = Path(__file__).resolve().parent
 
 # Paths for config and model file in current folder
 CONFIG_PATH = BASE_DIR / "config.json"
-MODEL_PATH = BASE_DIR / "best.pt"
+MODEL_PATH = BASE_DIR / "yolov5x.pt"
 DATA_DIR = BASE_DIR / "data"
 
 
